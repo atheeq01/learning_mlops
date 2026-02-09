@@ -1,0 +1,7 @@
+dvc
+scikit-learn
+numpy
+xgboost
+pandas
+nltk
+PyYAML
